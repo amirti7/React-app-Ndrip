@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Elior Zivhon",
+      "userName": "eliorZ23",
+      "email": "eliorz23@gmail.com",
+      "coordinates": "31.751518690590792,35.19409992901437",
+      "companyName": "wilson",
+      "posts": [
+        {
+          "id": 1,
+          "title": "Lorem ipsum Elior",
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum erat id nisl pretium, vitae hendrerit urna convallis. Donec sodales odio suscipit malesuada bibendum. Suspendisse et elit vitae justo condimentum ornare at sit amet diam. Aliquam erat volutpat. Suspendisse eu leo in mi sodales elementum. Nam cursus sapien et sapien semper, at venenatis elit accumsan. Proin accumsan purus eu ante luctus pellentesque."
+        },
+        {
+          "id": 2,
+          "title": "Lorem ipsum Elior1",
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum erat id nisl pretium, vitae hendrerit urna convallis. Donec sodales odio suscipit malesuada bibendum. Suspendisse et elit vitae justo condimentum ornare at sit amet diam. Aliquam erat volutpat. Suspendisse eu leo in mi sodales elementum. Nam cursus sapien et sapien semper, at venenatis elit accumsan. Proin accumsan purus eu ante luctus pellentesque."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Gilad Efrati",
+      "userName": "gilade10",
+      "email": "gilade10@gmail.com",
+      "coordinates": "32.10939407216509,34.810701057843865",
+      "companyName": "lemonade",
+      "posts": [
+        {
+          "id": 1,
+          "title": "Lorem ipsum Gilad",
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum erat id nisl pretium, vitae hendrerit urna convallis. Donec sodales odio suscipit malesuada bibendum. Suspendisse et elit vitae justo condimentum ornare at sit amet diam. Aliquam erat volutpat. Suspendisse eu leo in mi sodales elementum. Nam cursus sapien et sapien semper, at venenatis elit accumsan. Proin accumsan purus eu ante luctus pellentesque."
+        },
+        {
+          "id": 2,
+          "title": "Lorem ipsum Gilad1",
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum erat id nisl pretium, vitae hendrerit urna convallis. Donec sodales odio suscipit malesuada bibendum. Suspendisse et elit vitae justo condimentum ornare at sit amet diam. Aliquam erat volutpat. Suspendisse eu leo in mi sodales elementum. Nam cursus sapien et sapien semper, at venenatis elit accumsan. Proin accumsan purus eu ante luctus pellentesque."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Liad Strnberg",
+      "userName": "liads7",
+      "email": "liads7@gmail.com",
+      "coordinates": "32.061436360790694,34.79155196339511",
+      "companyName": "IDF",
+      "posts": [
+        {
+          "id": 1,
+          "title": "Lorem ipsum Liad",
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum erat id nisl pretium, vitae hendrerit urna convallis. Donec sodales odio suscipit malesuada bibendum. Suspendisse et elit vitae justo condimentum ornare at sit amet diam. Aliquam erat volutpat. Suspendisse eu leo in mi sodales elementum. Nam cursus sapien et sapien semper, at venenatis elit accumsan. Proin accumsan purus eu ante luctus pellentesque."
+        },
+        {
+          "id": 2,
+          "title": "Lorem ipsum Liad1",
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum erat id nisl pretium, vitae hendrerit urna convallis. Donec sodales odio suscipit malesuada bibendum. Suspendisse et elit vitae justo condimentum ornare at sit amet diam. Aliquam erat volutpat. Suspendisse eu leo in mi sodales elementum. Nam cursus sapien et sapien semper, at venenatis elit accumsan. Proin accumsan purus eu ante luctus pellentesque."
+        }
+      ]
+    }
+  ]
+}
