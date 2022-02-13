@@ -1,4 +1,4 @@
-# React App - Ndrip Assignment
+# React App - My First React App
 
 This projcet was created with Create React App
 
@@ -7,8 +7,6 @@ In this project i used react tools such as :
 #### 2) React Hooks such as: useEffect, useState , useRef
 
 
-### I learned a lot and enjoyed the task
-### thank you for the opportunity!
-
+### I learned a lot and enjoyed it!
 
 	😃🙏🔥
